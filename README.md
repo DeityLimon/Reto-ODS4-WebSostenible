@@ -6,7 +6,7 @@
 
 ## El Problema (El "Bug")
 
-> El principal fallo, "bug" o  problema de la educación digital actual es la **extrema lentitud y pesadez de plataformas como Moodle**. Estos sistemas consumen una cantidad excesiva de recursos de servidor y memoria RAM, lo que excluye a estudiantes con dispositivos antiguos o conexiones a internet limitadas. Esta falta de eficiencia no solo frustra el aprendizaje, sino que dispara los costes de mantenimiento y el gasto energético de los centros educativos.
+> El principal fallo, "bug" o  problema de la educación digital actual es la _**extrema lentitud y pesadez de plataformas como Moodle**_. Estos sistemas consumen una cantidad excesiva de recursos de servidor y memoria RAM, lo que excluye a estudiantes con dispositivos antiguos o conexiones a internet limitadas. Esta falta de eficiencia no solo frustra el aprendizaje, sino que dispara los costes de mantenimiento y el gasto energético de los centros educativos.
 
 
 
