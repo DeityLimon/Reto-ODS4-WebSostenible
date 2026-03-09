@@ -72,7 +72,7 @@ Para que la plataforma sea escalable y eficiente, se han definido las siguientes
 
 
 
-El diseño de \*\*Zenith\*\* se ha centrado en la usabilidad y la estética visual sin sacrificar la eficiencia energética. Se prioriza el uso de colores que consumen menos energía en pantallas modernas y una jerarquía visual clara.
+El diseño de **Zenith** se ha centrado en la usabilidad y la estética visual sin sacrificar la eficiencia energética. Se prioriza el uso de colores que consumen menos energía en pantallas modernas y una jerarquía visual clara.
 
 
 
